@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
@@ -25,13 +25,13 @@ GhibliArt is an AI-powered web application that generates beautiful Studio Ghibl
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: **Text-to-Image Generation** - Create Ghibli-style artwork from text descriptions  
-:heavy_check_mark: **Image-to-Image Transformation** - Upload photos and transform them into Ghibli-style art  
-:heavy_check_mark: **Multiple Ghibli Styles** - Choose from various Studio Ghibli movie styles  
-:heavy_check_mark: **Real-time Generation** - AI-powered artwork creation with Stability AI  
-:heavy_check_mark: **Responsive Design** - Beautiful UI that works on desktop and mobile  
-:heavy_check_mark: **Download Generated Art** - Save your created artwork to your device  
-:heavy_check_mark: **Interactive Gallery** - Browse and view generated artworks  
+:heavy_check_mark: **Text-to-Image Generation** - Create Ghibli-style artwork from text descriptions
+:heavy_check_mark: **Image-to-Image Transformation** - Upload photos and transform them into Ghibli-style art
+:heavy_check_mark: **Multiple Ghibli Styles** - Choose from various Studio Ghibli movie styles
+:heavy_check_mark: **Real-time Generation** - AI-powered artwork creation with Stability AI
+:heavy_check_mark: **Responsive Design** - Beautiful UI that works on desktop and mobile
+:heavy_check_mark: **Download Generated Art** - Save your created artwork to your device
+:heavy_check_mark: **Interactive Gallery** - Browse and view generated artworks
 
 ## :rocket: Technologies ##
 
@@ -116,3 +116,4 @@ Made with :heart: by <a href="https://github.com/rm1710" target="_blank">rm1710<
 &#xa0;
 
 <a href="#top">Back to top</a>
+
