@@ -1,10 +1,10 @@
 <h1 align="center">GhibliArt</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/yourusername/ghibliart?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/yourusername/ghibliart?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/yourusername/ghibliart?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/yourusername/ghibliart?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/rm1710/ghibliart?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/rm1710/ghibliart?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rm1710/ghibliart?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/rm1710/ghibliart?color=56BEB8">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/yourusername" target="_blank">Author</a>
+  <a href="https://github.com/rm1710" target="_blank">Author</a>
 </p>
 
 <br>
@@ -65,7 +65,7 @@ Before starting :checkered_flag:, you need to have the following installed:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/yourusername/ghibliart
+$ git clone https://github.com/rm1710/ghibliart
 
 # Access the backend folder
 $ cd ghibliart/GhibliArt_Backend
@@ -111,7 +111,7 @@ $ ./mvnw clean package
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
-Made with :heart: by <a href="https://github.com/yourusername" target="_blank">Your Name</a>
+Made with :heart: by <a href="https://github.com/rm1710" target="_blank">rm1710</a>
 
 &#xa0;
 
