@@ -1,5 +1,5 @@
-import {Link} from "react-router-dom";
-import {Facebook, Instagram, Twitter} from "lucide-react";
+import { Link } from "react-router-dom";
+import { Facebook, Instagram, Twitter } from "lucide-react";
 
 const Footer = () => (
     <footer className="bg-[#F5F3EF]">
@@ -7,12 +7,6 @@ const Footer = () => (
             <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
                 {/* Brand Column */}
                 <div className="col-span-1 md:col-span-1">
-                    <div className="flex items-center mb-2">
-                        <div className="bg-gray-800 text-white w-8 h-8 rounded-full flex items-center justify-center font-bold text-lg mr-2">
-                            G
-                        </div>
-                        <h3 className="text-xl font-bold">Ghibli AI</h3>
-                    </div>
                     <p className="text-gray-600 text-sm">
                         Inspired by the magical words of Studio Ghibli. This is a fan project and not affiliated with Studio Ghibli Inc.
                     </p>
