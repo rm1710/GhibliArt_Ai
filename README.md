@@ -18,7 +18,8 @@
 </p>
 <br>
 <h1 align="center">Images</h1>
-
+<img src="GhibliArt_frontend/src/assets/Ui1.png />
+<img src="GhibliArt_frontend/src/assets/Ui2.png />
 <br>
 
 ## :dart: About ##
